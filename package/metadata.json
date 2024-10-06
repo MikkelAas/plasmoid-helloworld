@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "aa.mikkel2902@gmail.com",
+                "Name": "Mikkel Aas"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "A hello world example.",
+        "Icon": "battery",
+        "Id": "com.github.MikkelAas.helloworld",
+        "Name": "Hello World",
+        "Version": "1",
+        "Website": "https://github.com/MikkelAas/plasmoid-helloworldplugin"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "KPackageStructure": "Plasma/Applet"
+}
